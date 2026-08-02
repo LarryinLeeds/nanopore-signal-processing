@@ -1,2 +1,16 @@
-# nanopore-signal-processing
-MATLAB routines for nanopore signal processing, event detection, parameter extraction, and analysis of AuNP and ribosome signals.
+# MATLAB Nanopore Signal Processing
+
+This repository contains MATLAB routines developed for the analysis of nanopore current recordings.
+
+## Main functions
+
+- Import ABF files
+- Extract the selected recording channel
+- Smooth nanopore current signals
+- Detect translocation events
+- Calculate IC, IR, and IT
+- Generate statistical distributions and figures
+
+## Data availability
+
+The experimental ABF datasets are not included because of data ownership and file-size restrictions.
