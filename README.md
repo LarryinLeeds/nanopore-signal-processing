@@ -8,7 +8,6 @@ This repository contains MATLAB routines developed for the analysis of nanopore 
 - Extract the selected recording channel
 - Smooth nanopore current signals
 - Detect translocation events
-- Calculate IC, IR, and IT
 - Generate statistical distributions and figures
 
 ## Data availability
